@@ -46,8 +46,6 @@ export default Vue.extend({
                 title,
             });
 
-            console.log(this.todos);
-
             this.newTodoTitle = '';
         }
     },
